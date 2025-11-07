@@ -2,7 +2,6 @@ package com.danilo.agendadortarefas.infrastructure.entity;
 
 import com.danilo.agendadortarefas.infrastructure.enums.StatusNotificacaoEnum;
 import lombok.*;
-import org.springframework.cglib.core.Local;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
